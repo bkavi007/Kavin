@@ -1,8 +1,7 @@
  .CSK{
     background-color: beige;
     font-style: italic;
-    font-size: 30px;
-    
+    font-size: 30px; 
  }
  .RCB{
     background-color: beige;
@@ -10,8 +9,30 @@
     font-size: 30px;
  }
  .span1{
-    color: cadetblue;
+    color: red;
  }
  .span2{
-    color: cadetblue;
+    color: red;
  }
+
+ .div1{
+   font-style: italic;
+   background-image: url(csk\ logo.jpeg);
+
+ }
+ .div2{
+   font-style: italic;
+   background-image: url
+ }
+ p{
+   color: white;
+   font-weight: bold;
+   text-transform: capitalize;
+ }
+ .p1{
+   background-image: url(rcb\ logo.jpeg);
+ }
+ 
+
+
+ 
